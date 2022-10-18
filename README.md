@@ -1,16 +1,8 @@
 # fwc_album_app
 
-A new Flutter project.
+Projeto desenvolvido na imersão Dark Week 8 da Academia do Flutter do Rodrigo Rahman.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse app se trata de um aplicativo para controle de figurinhas do album da Panini da Copa do mundo 2022.
+Foi desenvolvido somente o Front-End, o Back-End utilizado foi o da academia do FLutter.
